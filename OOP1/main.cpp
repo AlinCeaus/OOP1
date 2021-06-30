@@ -166,12 +166,12 @@ int main()
   fra4.print();
 
 
-  /*Fractie fra3 = fra;
+  Fractie fra3 = fra;
   fra.set_a(5);
   fra.print();
   cout << "\n";
   fra3.print();
-  cout << "\n";*/
+  cout << "\n";
 
 }
 
